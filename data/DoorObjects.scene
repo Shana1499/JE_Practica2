@@ -1,0 +1,26 @@
+Entities 5
+MESH data/Estructuras/Doors/Door.obj 
+TEXTURE data/Estructuras/Doors/Door.tga 
+-2.440,0.000,-10.100 
+0.000,180.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Doors/Door.obj 
+TEXTURE data/Estructuras/Doors/Door.tga 
+-2.440,0.000,-6.30 
+0.000,180.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Doors/Door.obj 
+TEXTURE data/Estructuras/Doors/Door.tga 
+-3.900,0.000,2.440 
+0.000,90.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Doors/Door.obj 
+TEXTURE data/Estructuras/Doors/Door.tga 
+-7.700,0.000,2.440 
+0.000,90.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Doors/Door.obj 
+TEXTURE data/Estructuras/Doors/Door.tga
+-2.446,-0.180,-17.844
+0.000,180.000,0.000 
+2.480,2.480,2.480

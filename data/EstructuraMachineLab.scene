@@ -1,0 +1,71 @@
+Entities 14
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-11.640,0.000,6.100 
+0.000,180.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-9.200,0.000,6.100 
+0.000,180.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-11.640,0.000,-6.100 
+0.000,180.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-9.200,0.000,-6.100 
+0.000,180.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-7.970,0.000,0.000 
+0.000,270.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-7.970,0.000,4.880 
+0.000,270.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-7.970,0.000,-2.440 
+0.000,270.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-7.970,0.000,-4.880 
+0.000,270.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/WallDoors/WallDoor1.obj 
+TEXTURE data/Estructuras/WallDoors/WallDoor2.tga
+-7.970,0.000,2.440 
+0.000,270.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-12.840,0.000,-4.880 
+0.000,270.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-12.840,0.000,0.000 
+0.000,270.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-12.840,0.000,2.440 
+0.000,270.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-12.840,0.000,4.880 
+0.000,270.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-12.840,0.000,-2.440 
+0.000,270.000,0.000 
+2.000,2.000,2.000

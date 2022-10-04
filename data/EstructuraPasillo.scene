@@ -1,0 +1,56 @@
+Entities 11
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+1.214,0.000,-16.524
+0.000,270.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+1.214,0.000,-14.084 
+0.000,270.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+1.214,0.000,-11.644 
+0.000,270.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-3.646,0.000,-16.524 
+0.000,270.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-3.646,0.000,-14.084
+0.000,270.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-3.646,0.000,-11.644
+0.000,270.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2.tga 
+-0.006,0.000,-17.744
+0.000,180.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/WallDoors/WallDoor1.obj 
+TEXTURE data/Estructuras/WallDoors/WallDoor2.tga
+-2.446,0.000,-17.744
+0.000,180.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Walls/Wall1_2.obj 
+TEXTURE data/Estructuras/Walls/Wall2_Letter.tga 
+-0.006,0.000,-10.424
+0.000,180.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/WallDoors/WallDoor1.obj 
+TEXTURE data/Estructuras/WallDoors/WallDoor2.tga
+-2.446,0.000,-10.424 
+0.000,180.000,0.000 
+2.000,2.000,2.000
+MESH data/Estructuras/Pasillos/Pasillo.obj 
+TEXTURE data/Estructuras/Pasillos/Pasillo.tga 
+-2.440,0.000,-8.244
+0.000,0.000,0.000 
+2.000,2.000,2.000
